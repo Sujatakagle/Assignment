@@ -1,0 +1,17 @@
+.statistics {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc; 
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .statistics div {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .statistics div:last-child {
+    margin-bottom: 0;
+  }
+  

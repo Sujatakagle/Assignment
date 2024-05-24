@@ -1,0 +1,19 @@
+.bar-chart {
+    background-color: #fff; 
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    padding: 20px; 
+  }
+  
+  .bar-chart h2 {
+    font-size: 20px;
+    margin-bottom: 20px; 
+  }
+  
+  
+  .bar-chart .chartjs-render-monitor {
+    background-color: rgba(75, 192, 192, 0.6); 
+    border-color: rgba(75, 192, 192, 1);
+  }
+  
+  
